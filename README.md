@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello World! I'm Igor Tomic
 
-<!--
-**igort99/igort99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-%E2%9A%99%EF%B8%8F%20Master%20Degree-blue)
+![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE%20Counter%20Strike-orange)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm a 24-year-old Master Engineer of Software and Informational Engineering who believes in the power of clean code and the magic of open source.
+
+🚀 Proficient in **Rust** 🦀 and **TypeScript** 🚀, but I'm like a programming Swiss Army Knife—fluent in multiple languages.
+
+🎮 When I'm not crafting elegant code, you'll find me dominating in Counter-Strike. Headshots in code and on the virtual battlefield!
+
+## My Tech Arsenal
+
+- 💻 Master of Software Engineering
+- 🌐 Open Source Advocate
+- 🚀 Contributing to the tech world
+- 🔍 Debugging
+- 🎮 Counter-Strike Noob
